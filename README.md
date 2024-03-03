@@ -1,6 +1,6 @@
 # Coupon Investigation
 
-For my own investigation, I selected the Restarants(20-50) coupons for analysing the driver characteristics which have influenced the acceptance of coupons. I reviewed various factors such as the age, income, passenger type, and marital status and time.
+For my own investigation, I selected the Restaurants(20-50) coupons for analysing the driver characteristics which have influenced the acceptance of coupons. I reviewed various factors such as the age, income, passenger type, and marital status and time.
 
 ## Conclusions
 1. **Age:** the young (under 30 years) and single drivers are who accept the most of this type of coupons.
